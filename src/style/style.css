@@ -1,0 +1,40 @@
+.body{
+    background-color: #e8e8e8;
+    color: black;
+}
+
+.clickableContainer{
+    background-color: #F8F9FA;
+    border-radius: 5px;
+    padding: 2vh;
+    margin: 1vh;
+}
+
+.clickableContainer:hover{
+    cursor: pointer;
+}
+
+.nonClickableContainer{
+    background-color: #F8F9FA;
+    border-radius: 5px;
+    padding: 2vh;
+    margin: 1vh;
+}
+
+.accountLinkContainer:hover{
+    cursor: pointer;
+}
+
+#deleteAccountText{
+    font-weight: 700;
+    color: #fc3b3b;
+}
+
+ul{
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+}
